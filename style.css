@@ -54,7 +54,7 @@ body{
 .page__main {
 }
 .main-block {
-    background: url('/img/123.jpg') center / cover no-repeat;
+    background: url('img/123.jpg') center / cover no-repeat;
     padding-bottom: 183px;
     padding-top: 183px;
     position: relative;
