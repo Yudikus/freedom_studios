@@ -54,7 +54,7 @@ body{
 .page__main {
 }
 .main-block {
-    background: url('./img/123.jpg') center / cover no-repeat;
+    background: url('/img/123.jpg') center / cover no-repeat;
     padding-bottom: 183px;
     padding-top: 183px;
     position: relative;
@@ -131,7 +131,7 @@ body{
 .button span{
     display: block;
     padding-right: 22px;
-    background: url(/img/icons/icons_arrow_button.svg) right no-repeat;
+    background: url('/img/icons/icons_arrow_button.svg') right no-repeat;
 }
 
 
@@ -254,7 +254,7 @@ body{
     margin-bottom: 15px;
 }
 .facilities__item {
-    background: url('../img/icons/icons__arrow.svg')  0 3px no-repeat;
+    background: url('/img/icons/icons__arrow.svg')  0 3px no-repeat;
     padding-left: 37px;
 }
 
@@ -371,7 +371,7 @@ body{
 }
 .block-about {
     padding: 80px 0 80px 0;
-    background: url('../img/about-img.jpg') center / cover no-repeat;
+    background: url('/img/about-img.jpg') center / cover no-repeat;
     text-align: center;
 }
 .block-about__container {
