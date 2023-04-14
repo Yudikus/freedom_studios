@@ -54,7 +54,7 @@ body{
 .page__main {
 }
 .main-block {
-    background: url('img/123.jpg') center / cover no-repeat;
+    background: url('/img/123.jpg') center / cover no-repeat;
     padding-bottom: 183px;
     padding-top: 183px;
     position: relative;
@@ -371,7 +371,7 @@ body{
 }
 .block-about {
     padding: 80px 0 80px 0;
-    background: url('img/about-img.jpg') center / cover no-repeat;
+    background: url('img/aboutImg.jpg') center / cover no-repeat;
     text-align: center;
 }
 .block-about__container {
